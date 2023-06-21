@@ -14,7 +14,7 @@ another dockered project using html and js this time it's to know if an input is
 if it's ❎ a palindrome the screen will shake
 but it's ✔️ a palindrome you'll have a green notification
 
-here is a list of palindrome absudely long to proove it hasn't been hardcoded : 
+here is a list of palindrome absurdely long to proove it hasn't been hardcoded : 
 
     Abba
     Aibohphobia
