@@ -86,50 +86,27 @@ here is a list of palindrome absudely long to proove it hasn't been hardcoded :
 
 and now sentences:
 Evil is a name of a foeman, as I live.
+
 Able was I ere I saw Elba.
+
 Madam, in Eden, I'm Adam.
+
 A man, a plan, a canal: Panama.
+
 Mr. Owl ate my metal worm.
+
 Are we not pure? "No sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.
+
 Aibohphobia: The fear of palindromes.
+
 Sir, I demand, I am a maid named Iris.
+
 Ma is a nun, as I am.
+
 Do geese see God?
+
 Lisa Bonet ate no basil.
+
 Rats live on no evil star.
+
 Step on no pets.
-Was it a car or a cat I saw?
-Ma is a nun, as I am.
-Won't lovers revolt now?
-"Don't nod."
-"Rise to vote, sir."
-Evil is a name of a foeman, as I live.
-Sir, I demand, I am a maid named Iris.
-Ma is a nun, as I am.
-Evil is a name of a foeman, as I live.
-Able was I ere I saw Elba.
-Madam, in Eden, I'm Adam.
-A man, a plan, a canal: Panama.
-Mr. Owl ate my metal worm.
-Are we not pure? "No sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.
-Aibohphobia: The fear of palindromes.
-Sir, I demand, I am a maid named Iris.
-Ma is a nun, as I am.
-Do geese see God?
-Lisa Bonet ate no basil.
-Rats live on no evil star.
-Step on no pets.
-Was it a car or a cat I saw?
-Ma is a nun, as I am.
-Won't lovers revolt now?
-"Don't nod."
-"Rise to vote, sir."
-Evil is a name of a foeman, as I live.
-Sir, I demand, I am a maid named Iris.
-Ma is a nun, as I am.
-Evil is a name of a foeman, as I live.
-Able was I ere I saw Elba.
-Madam, in Eden, I'm Adam.
-A man, a plan, a canal: Panama.
-Mr. Owl ate my metal worm.
-Are we not pure? "No sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.
