@@ -85,6 +85,7 @@ here is a list of palindrome absudely long to proove it hasn't been hardcoded :
     Did
 
 and now sentences:
+
 Evil is a name of a foeman, as I live.
 
 Able was I ere I saw Elba.
